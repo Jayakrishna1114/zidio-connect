@@ -52,7 +52,8 @@ ZIDIOConnect is a comprehensive platform designed to streamline the internship a
 
 ## 🏛️ System Architecture
 
-![System Architecture](docs/system-architecture.png)
+Frontend (React.js) <--> Backend (Spring Boot) <--> Database (MySQL)
+
 
 
 ## 📄 License
