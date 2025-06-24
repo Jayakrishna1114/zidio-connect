@@ -50,12 +50,11 @@ ZIDIOConnect is a comprehensive platform designed to streamline the internship a
 | **Testing** | Postman, JUnit |
 | **DevOps** | Git, GitHub |
 
-## 📊 System Architecture
+## 🏛️ System Architecture
 
-┌─────────────┐ ┌─────────────┐ ┌─────────────┐
-│ Frontend │ ◄──► │ Backend │ ◄──► │ Database │
-│ (React.js) │ │(Spring Boot)│ │ (MySQL) │
-└─────────────┘ └─────────────┘ └─────────────┘
+![System Architecture](docs/system-architecture.png)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
